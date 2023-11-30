@@ -1,2 +1,2 @@
 # Translator
-Personal Interpreter who can translate any languages to your desired language
+Personal Interpreter who can translate any language to your desired language
